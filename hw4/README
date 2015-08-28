@@ -1,0 +1,19 @@
+eval_tagger.py - evaluation script
+
+tagger_decoder.py, tagger_config.py, make_dict.py - implementation of a bigram decoder
+
+tagger_history_generator.py - generates the histories to score
+
+tag_dev.dat, tag_dev.key, tag_train.dat - tagging corpus files
+
+tag.model - pre-trained model file for problem 4
+
+history.scores, example.sent - example history score file and sentence
+
+pipe_servers.py - example of how to call our code from python.
+
+P4: test tag.model on tag_dev.dat.
+
+P5: Add suffix feature and train tag model with new feature set.
+
+P6: Test with a variety of feature set.

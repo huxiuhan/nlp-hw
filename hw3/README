@@ -1,0 +1,17 @@
+alignment_sample_model1.txt, alignment_sample_model1.txt - Sample alignment output.
+
+sample_t_model1.txt, Sample output for top 10 translations.
+
+devwords.txt - English words list for q4 and q5.
+
+corpus.en.gz, corpus.de.gz - Corpus for q4 - q6.
+
+original.de, original.en, scrambled.en - Data for q6.
+
+eval_scramble.py - Evaluation for q6
+
+P4: IBM Translation Model 1
+
+P5: EM algorithm to train IBM Model 2
+
+P6: Use IBM Model 2 to find best matched English-German sentence pair.

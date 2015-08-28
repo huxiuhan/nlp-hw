@@ -1,0 +1,5 @@
+P4: replace infrequent words appeared in original trainning data with a common symbol RARE, count_cfg_freq
+
+P5: run the CKY algorithm on the test corpus
+
+P6: treat words appear only once (Count(x) < 2) as rare words

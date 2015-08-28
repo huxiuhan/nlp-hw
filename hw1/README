@@ -1,0 +1,10 @@
+P4_1: Replace infrequent words with RARE
+
+P4_2: Tag prediction base on emission rate
+
+P5_1: Print log probability for trigrams
+
+P5_2: Tag prediction using ML transitions and emissions, Viterbi algorithm
+
+P6: replace the rare words with different RARE tokens, improved Viterbi
+algorithm
